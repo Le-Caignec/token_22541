@@ -1,6 +1,5 @@
 // The 'token_22541' program.
 program token_22541.aleo {
-    // aleo100e4auwg4ltwwft26qdz5zxsp3lf9zcvrj8qh38uyk872pu0pcgqfpvdus
     mapping balance: address=>u64;
 
     record Token{
